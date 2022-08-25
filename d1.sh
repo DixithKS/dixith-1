@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "welcome to gits"
+echo "welcome to a gits"
 
